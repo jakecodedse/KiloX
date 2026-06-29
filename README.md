@@ -8,5 +8,7 @@ KiloX is a modern Linux distribution built on Debian 13 (Trixie) with the KDE Pl
 
 **Community-driven**, Contributions and feedback are welcome.
 
+**Driver Support**, KiloX supports NVIDIA and AMD GPUs with drivers available directly from the manufacturers.
+
 ![About](Screenshots/about.png)
 *SCREENSHOT MAY BE TAKEN FROM A OLDER BUILD*
